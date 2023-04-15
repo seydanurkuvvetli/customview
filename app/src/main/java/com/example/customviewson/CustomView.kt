@@ -22,13 +22,8 @@ class CustomView @JvmOverloads constructor(context: Context, attrs: AttributeSet
 
         binding2 = CustomViewBinding.inflate(LayoutInflater.from(context), this, true)
 
-
-
-
-
-
-
     }
+
 
 
 

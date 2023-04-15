@@ -25,9 +25,8 @@ private lateinit var binding: ActivityMainBinding
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val film = CustomData("Titanic", 1997,R.drawable.indir)
-        val film2 = CustomData("Titanic", 1997,R.drawable.indir)
-        val film3 = CustomData("Titanic1234", 1997,R.drawable.indir)
+        val film = CustomData("Titanic", 1997,R.drawable.ic_launcher_foreground)
+
        // binding.customView.setFilm(film)
 
 
